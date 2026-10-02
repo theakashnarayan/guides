@@ -16,6 +16,7 @@ Welcome to the guides repository! Here you will find all links to tools, website
 
 1. [Running Claude (Fable 5) as the Boss and GPT-5.6 (Codex) as the Worker](<Data/Running Claude (Fable 5) as the Boss and GPT-5.6 (Codex) as the Worker.md>)
 2. [The Complete Guide to Finding & Removing Your Face from the Internet](<Data/The Complete Guide to Finding & Removing Your Face from the Internet.md>)
+3. [The Ultimate AI Survival Guide, 2026 Edition](<Data/AI Upskill Guide 2026 — Free PDF.md>)
 
 ---
 
@@ -25,6 +26,66 @@ Welcome to the guides repository! Here you will find all links to tools, website
 - 🐙 **GitHub**: [@theakashnarayan](https://github.com/theakashnarayan)
 - 🐦 **X (Twitter)**: [@theakashnarayan](https://x.com/theakashnarayan)
 - 💼 **LinkedIn**: [Akash Narayan](https://www.linkedin.com/in/theakashnarayan/)
+- 📘 **Facebook**: [Akash Narayan](https://www.facebook.com/people/Akash-Narayan/61588056814283/)
 - 📸 **Instagram**: [@kshnryn](https://www.instagram.com/kshnryn/)
 - 🧵 **Threads**: [@kshnryn](https://www.threads.com/@kshnryn)
-- 📘 **Facebook**: [Akash Narayan](https://www.facebook.com/people/Akash-Narayan/61588056814283/)
+
+---
+
+## Socials (Hindi) - To be linked
+
+- 📺 **YouTube**: [Channel](https://youtube.com/...)
+- 💼 **LinkedIn**: [Profile](https://linkedin.com/...)
+- 📘 **Facebook**: [Page](https://facebook.com/...)
+- 📸 **Instagram**: [Profile](https://instagram.com/...)
+- 🧵 **Threads**: [Profile](https://threads.net/...)
+
+---
+
+## Socials (Kannada) - To be linked
+
+- 📺 **YouTube**: [Channel](https://youtube.com/...)
+- 💼 **LinkedIn**: [Profile](https://linkedin.com/...)
+- 📘 **Facebook**: [Page](https://facebook.com/...)
+- 📸 **Instagram**: [Profile](https://instagram.com/...)
+- 🧵 **Threads**: [Profile](https://threads.net/...)
+
+---
+
+## Socials (Malayalam) - To be linked
+
+- 📺 **YouTube**: [Channel](https://youtube.com/...)
+- 💼 **LinkedIn**: [Profile](https://linkedin.com/...)
+- 📘 **Facebook**: [Page](https://facebook.com/...)
+- 📸 **Instagram**: [Profile](https://instagram.com/...)
+- 🧵 **Threads**: [Profile](https://threads.net/...)
+
+---
+
+## Socials (Tamil) - To be linked
+
+- 📺 **YouTube**: [Channel](https://youtube.com/...)
+- 💼 **LinkedIn**: [Profile](https://linkedin.com/...)
+- 📘 **Facebook**: [Page](https://facebook.com/...)
+- 📸 **Instagram**: [Profile](https://instagram.com/...)
+- 🧵 **Threads**: [Profile](https://threads.net/...)
+
+---
+
+## Socials (Telugu) - To be linked
+
+- 📺 **YouTube**: [Channel](https://youtube.com/...)
+- 💼 **LinkedIn**: [Profile](https://linkedin.com/...)
+- 📘 **Facebook**: [Page](https://facebook.com/...)
+- 📸 **Instagram**: [Profile](https://instagram.com/...)
+- 🧵 **Threads**: [Profile](https://threads.net/...)
+
+---
+
+## Socials (Marathi) - To be created and linked
+
+- 📺 **YouTube**: [Channel](https://youtube.com/...)
+- 💼 **LinkedIn**: [Profile](https://linkedin.com/...)
+- 📘 **Facebook**: [Page](https://facebook.com/...)
+- 📸 **Instagram**: [Profile](https://instagram.com/...)
+- 🧵 **Threads**: [Profile](https://threads.net/...)
