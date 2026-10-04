@@ -6,17 +6,13 @@ Welcome to the guides repository! Here you will find all links to tools, website
 
 ## Series
 
-1. [Powerful Websites You Should Know (Part x)](<Data/Powerful Websites You Should Know (Part x).md>)
-2. [Powerful Repos You Should Know (Part x)](<Data/Powerful Repos You Should Know (Part x).md>)
-3. [Powerful Apps You Should Know (Part x)](<Data/Powerful Apps You Should Know (Part x).md>)
+1. [Powerful Tools You Should Know (Part x)](<Data/Powerful Tools You Should Know (Part x).md>)
 
 ---
 
-## Misc. Guides
+## Misc. Videos and Guides
 
-1. [Running Claude (Fable 5) as the Boss and GPT-5.6 (Codex) as the Worker](<Data/Running Claude (Fable 5) as the Boss and GPT-5.6 (Codex) as the Worker.md>)
-2. [The Complete Guide to Finding & Removing Your Face from the Internet](<Data/The Complete Guide to Finding & Removing Your Face from the Internet.md>)
-3. [The Ultimate AI Survival Guide, 2026 Edition](<Data/AI Upskill Guide 2026 — Free PDF.md>)
+1. [Misc. Videos and Guides](<Data/Misc. Videos and Guides.md>)
 
 ---
 
